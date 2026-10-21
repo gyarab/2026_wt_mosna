@@ -1,0 +1,26 @@
+
+body {
+    background-color: #f5eee5;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: white;
+    padding: 25px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+nav {
+    padding: 10px;
+    background-color: #eee0cf;
+}
+
+nav a {
+    color: #6c3714;
+    margin-right: 10px;
+}
