@@ -1,7 +1,8 @@
 
-.container {
-    background: transparent !important;
-    padding: 0;
-    margin-top: 0;
-    border-radius: 0;
+h1, h2 {
+    color: brown;
+}
+
+p {
+    color: rgb(255, 255, 255);
 }
