@@ -1,6 +1,6 @@
 # John Romero
 
-[![John Romero](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/John_Romero_2019.jpg/500px-John_Romero_2019.jpg)](https://commons.wikimedia.org/wiki/File:John_Romero_-_GDC_2022_(cropped).jpg)
+[[![John Romero](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/John_Romero_2019.jpg/500px-John_Romero_2019.jpg)](https://commons.wikimedia.org/wiki/File:John_Romero_-_GDC_2022_(cropped).jpg)](https://cs.wikipedia.org/wiki/John_Romero)
 
 ## Kdo je John Romero?
 
