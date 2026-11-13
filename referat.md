@@ -1,26 +1,28 @@
-# John Romeo
+# John Romero
 
-![John Romeo](https://m.media-amazon.com/images/M/MV5BMjU4ZGQ4ZWQtMjQxNi00ZWY4LTkxYTAtY2Y4NDI1ODRlMTk3XkEyXkFqcGc%40._V1_.jpg)
+![John Romero](https://upload.wikimedia.org/wikipedia/commons/)
 
-## Kdo je John Romeo?
+## Kdo je John Romero?
 
-John Romeo je americký herec, který se proslavil především svou dlouholetou prací v divadle. Přes **28 let působil v New York State Theatre Institute (NYSTI)**. :contentReference[oaicite:0]{index=0}
+John Romero je americký herní vývojář, programátor a designér. Proslavil se především jako jeden ze spoluzakladatelů společnosti id Software a tvůrce legendárních počítačových her.
 
 ## Kariéra
 
-Během své kariéry ztvárnil mnoho různých rolí. Objevil se například v:
+Během své kariéry se podílel na vývoji mnoha známých her. Mezi jeho nejvýznamnější projekty patří:
 
-- *A Death of a Salesman*
-- *Romeo and Juliet*
-- *The Canterville Ghost*
-- *Arsenic and Old Lace*
+- *Wolfenstein 3D*
+- *DOOM*
+- *DOOM II*
+- *Quake*
+- *Heretic*
+- *Daikatana*
 
-Působil také na **Off-Broadwayi**, v londýnském West Endu a na mezinárodních divadelních turné. :contentReference[oaicite:1]{index=1}
+Spoluzaložil také společnosti id Software, Ion Storm a Romero Games, ve které pokračuje ve vývoji počítačových her.
 
 ## Zajímavost
 
-John Romeo byl jedním z dlouholetých členů NYSTI a během své kariéry spolupracoval s mnoha významnými divadelními osobnostmi. :contentReference[oaicite:2]{index=2}
+John Romero je považován za jednu z nejvýznamnějších osobností žánru FPS (stříleček z pohledu první osoby). Je také známý tím, že pomohl rozšířit pojem „Deathmatch“ pro multiplayerové hraní.
 
 ## Shrnutí
 
-John Romeo je zkušený americký divadelní a filmový herec. Největší část jeho kariéry je spojena s divadlem, kde ztvárnil desítky různých postav.
+John Romero je významný americký herní vývojář a programátor. Největší část jeho kariéry je spojena s vývojem legendárních her DOOM, Quake a Wolfenstein 3D, které výrazně ovlivnily historii počítačových her.
