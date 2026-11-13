@@ -1,6 +1,6 @@
 # John Romero
 
-![John Romero](https://upload.wikimedia.org/wikipedia/commons/)
+![John Romero](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/John_Romero_2019.jpg/500px-John_Romero_2019.jpg)
 
 ## Kdo je John Romero?
 
