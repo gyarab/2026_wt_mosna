@@ -1,7 +1,7 @@
 
 # John Romero
 
-![John Romero](https://commons.wikimedia.org/wiki/Special:FilePath/John%20Romero%20GDC%202023.jpg)
+![John Romero](https://upload.wikimedia.org/wikipedia/commons/0/02/John_Romero_GDC_2023.jpg)
 
 ## Kdo je John Romero?
 
